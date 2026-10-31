@@ -54,6 +54,7 @@ tools:
   - 6f66ae7c5f7a
   - 90d16db017d7
   - a37612abf7f9
+  - ce3c9c1ac7ca
   - ce44c6f2ba38
   - ea04b737afa0
   - f3a5f075498f
@@ -65,6 +66,7 @@ tools:
   revisions:
   - 62adf13b86ea
   - 74ec758e63a4
+  - 98fd01004439
   - 9a7c5b6d8f1e
   - 9fd8b69e6e68
   - b47c006d90c5
@@ -135,6 +137,7 @@ tools:
   - 43798b4caee0
   - 602de62d995b
   - 8b3e3657034e
+  - 8f51a7500540
   - ef2ad746b589
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -151,6 +154,7 @@ tools:
   - 8fe98f7094de
   - 9a882d108833
   - b060944b3989
+  - ccc6c4f0236f
   - cd9874cb9019
   - d027d1f4984e
   tool_panel_section_id: rna_seq
@@ -190,6 +194,7 @@ tools:
   revisions:
   - 4418229c501e
   - 67b0b160903a
+  - 8332c892bd72
   - 8f6836089479
   - 916cb26bd9d3
   - c5a9d57d7eb1
@@ -214,6 +219,7 @@ tools:
   - 22cf48ad7b16
   - 6a6717a5f421
   - 86285ddd4512
+  - b6fd78078bb3
   - cf747d1bd79a
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -245,6 +251,7 @@ tools:
 - name: egsea
   owner: iuc
   revisions:
+  - 183afb27bcf1
   - 31ea4992b948
   - fba1660fb717
   tool_panel_section_id: rna_seq
@@ -262,6 +269,7 @@ tools:
   owner: iuc
   revisions:
   - 2b80a2596064
+  - 5a69f2ff055e
   - 704c401e0afb
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -284,6 +292,7 @@ tools:
 - name: pizzly
   owner: iuc
   revisions:
+  - 59bdee6f554c
   - 91ef4a171202
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
