@@ -91,6 +91,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 01a54504b6aa
   - 7d01da0b9e18
   - e9005d1f3cfd
   tool_panel_section_id: metagenomic_analysis
@@ -133,6 +134,7 @@ tools:
 - name: biom_convert
   owner: iuc
   revisions:
+  - 081cc9a9a738
   - 091bb5922a82
   - 0de92f0b96ef
   - 1b5fc03380d4
@@ -490,6 +492,7 @@ tools:
   - 2bc40bfbcfb4
   - 8a0473eb465e
   - 9da9706f7ca9
+  - c16d6bfc7783
   - cfd50144a871
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -954,6 +957,7 @@ tools:
   - 99ff9221182c
   - afee33334a63
   - b5a7583b8db0
+  - c942af70a4fc
   - fdb13ee4be38
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
