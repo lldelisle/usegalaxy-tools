@@ -90,11 +90,13 @@ tools:
   revisions:
   - 06cca574e337
   - 25529df60a81
+  - 2bfbe496fa7c
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: openms_featurefindermultiplex
   owner: galaxyp
   revisions:
+  - 6e63111c9500
   - 9876bda3ec53
   - c9b2a5022d9e
   tool_panel_section_id: proteomics
@@ -102,6 +104,7 @@ tools:
 - name: openms_msgfplusadapter
   owner: galaxyp
   revisions:
+  - 4e87a8070bb3
   - 810779f0cf49
   - f5ec766d80cf
   tool_panel_section_id: proteomics
@@ -110,6 +113,7 @@ tools:
   owner: galaxyp
   revisions:
   - 0693b186f39e
+  - b8d6cd945f8d
   - d6aca689dd48
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
@@ -118,11 +122,13 @@ tools:
   revisions:
   - 4138acdeedfb
   - 6ccbf9a2072c
+  - 744657c4bb0f
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: openms_idmapper
   owner: galaxyp
   revisions:
+  - 4e6b682b1ee0
   - adca857b4884
   - ea02403ff738
   tool_panel_section_id: proteomics
@@ -130,6 +136,7 @@ tools:
 - name: openms_metaprosip
   owner: galaxyp
   revisions:
+  - 527f616d25c8
   - 5f72a8fa935d
   - 819ed5aae76f
   tool_panel_section_id: proteomics
@@ -158,6 +165,7 @@ tools:
   - 3f947afe3f71
   - 42ad5460c1d4
   - 8819eba2402a
+  - bccd2dd41f18
   - c3a75e21f2bf
   - da1531027506
   - da9ebef968bd
@@ -181,17 +189,20 @@ tools:
   owner: galaxyp
   revisions:
   - c32806a80862
+  - cdf811f441dd
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: pepquery2_show_sets
   owner: galaxyp
   revisions:
+  - aebd150fd138
   - d39a43a076fc
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: pepquery2_index
   owner: galaxyp
   revisions:
+  - 88fd1654fabd
   - c56ca72c129e
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
