@@ -48,6 +48,7 @@ tools:
   revisions:
   - afee33334a63
   - b5a7583b8db0
+  - c942af70a4fc
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct_coverage_table
@@ -77,6 +78,7 @@ tools:
   revisions:
   - 0917b2d6010d
   - 9da9706f7ca9
+  - c16d6bfc7783
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: metabat2
@@ -166,6 +168,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 01a54504b6aa
   - 7d01da0b9e18
   - e9005d1f3cfd
   tool_panel_section_id: metagenomic_analysis
